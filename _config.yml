@@ -22,11 +22,11 @@ repository               : "LampeECE/LampeECE.github.io"
 author:
   # Biographic information
   avatar           : "IMG_4108-720x960.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Lutz Lampe"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : ""
+  location         : "Vancouver, BC"
+  employer         : "The University of British Columbia"
   uri              : # URL
   email            : "none@example.org" 
 
