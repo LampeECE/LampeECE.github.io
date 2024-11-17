@@ -9,8 +9,8 @@ redirect_from:
 
 I am a Professor in the [Department of Electrical and Engineering ](https://ece.ubc.ca/) at the Vancouver campus of the [University of British Columbia](https://www.ubc.ca). Most of my time is spent working with students through research and teaching. The rest is devoted to collaborating with colleagues and engaging with the broader community, often in dedicated service roles such as editor, conference chair, program chair, and similar positions. 
 
-Many years ago, I came across the following quote that has been guiding me ever since (with more or sometimes less succcess):
-\`\`No one who is a professor and receives his support from the larger community can rightly be unmindful of his obligations to it. He must speak to the higher values of all insofar as he is qualified and able to do so." John Archibald Wheeler 
+Many years ago, I came across the following quote that has been guiding me ever since:
+>No one who is a professor and receives his support from the larger community can rightly be unmindful of his obligations to it. He must speak to the higher values of all insofar as he is qualified and able to do so. John Archibald Wheeler 
 
 A data-driven personal website
 ======
