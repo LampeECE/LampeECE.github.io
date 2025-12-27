@@ -281,12 +281,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # Custom CSS 
-  - scope:
-      path: ""
-    values:
-      custom_css:
-        - /assets/css/custom.css
 
 # Sass/SCSS
 sass:
