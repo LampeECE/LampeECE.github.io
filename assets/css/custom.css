@@ -1,3 +1,9 @@
-.sidebar {
-  border: 3px solid red !important;
+.author__urls {
+  display: block !important;
+}
+
+.author__urls li.author__desktop {
+  white-space: normal !important;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
