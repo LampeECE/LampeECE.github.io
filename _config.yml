@@ -281,19 +281,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed
-
-defaults:
+  # Custom CSS 
   - scope:
       path: ""
     values:
       custom_css:
         - /assets/css/custom.css
 
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Outputting
 permalink: /:categories/:title/
