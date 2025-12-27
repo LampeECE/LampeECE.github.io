@@ -288,11 +288,12 @@ sass:
   style: compressed
 
 defaults:
-- scope:
-    path: ""
-  values:
-    custom_css:
-      - /assets/css/custom.css
+  - scope:
+      path: ""
+    values:
+      custom_css:
+        - /assets/css/custom.css
+
 
 # Outputting
 permalink: /:categories/:title/
