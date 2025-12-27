@@ -9,17 +9,17 @@ author_profile: true
 <br>
 
 <table border=0 cellpadding=1>
-    <tr><td></td><td><b>Ph.D. students</b></td></tr>
-    <tr><td></td><td> Mohammad Taha Askari (UBC 4YF scholar)</td></tr>
-    <tr><td></td><td> Elena Dobre </td></tr>
-    <tr><td></td><td> Nikhileswar Kota </td></tr>
-    <tr><td></td><td> Idan Roth</td></tr>
-    <tr><td></td><td> Selvakumar Tharranetharan (UBC 4YF scholar)</td></tr>
+    <tr><td><b>Ph.D. students</b></td></tr>
+    <tr><td> Mohammad Taha Askari (UBC 4YF scholar)</td></tr>
+    <tr><td> Elena Dobre </td></tr>
+    <tr><td> Nikhileswar Kota </td></tr>
+    <tr><<td> Idan Roth</td></tr>
+    <tr><td> Selvakumar Tharranetharan (UBC 4YF scholar)</td></tr>
 
-    <tr><td></td><td><b>M.A.Sc. students</b></td></tr>
-    <tr><td></td><td> Chinmoyee Chakraborty </td></tr>
-    <tr><td></td><td> Francis Chambers </td></tr>
-    <tr><td></td><td> Flynn Dowey </td></tr>
+    <tr><td><b>M.A.Sc. students</b></td></tr>
+    <tr><td> Chinmoyee Chakraborty </td></tr>
+    <tr><td> Francis Chambers </td></tr>
+    <tr><td> Flynn Dowey </td></tr>
 </table>
 
 <br>
