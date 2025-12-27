@@ -13,7 +13,7 @@ author_profile: true
     <tr><td> Mohammad Taha Askari (UBC 4YF scholar)</td></tr>
     <tr><td> Elena Dobre </td></tr>
     <tr><td> Nikhileswar Kota </td></tr>
-    <tr><<td> Idan Roth</td></tr>
+    <tr><td> Idan Roth</td></tr>
     <tr><td> Selvakumar Tharranetharan (UBC 4YF scholar)</td></tr>
 
     <tr><td><b>M.A.Sc. students</b></td></tr>
