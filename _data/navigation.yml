@@ -9,7 +9,7 @@ main:
     url: /researchgroup/
 
   - title: "Publications"
-    url: /path/to/publications.html
+    url: /pages/publications.html
 
   #- title: "Talks"
   #  url: /talks/    
