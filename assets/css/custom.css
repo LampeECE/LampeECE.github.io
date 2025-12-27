@@ -1,0 +1,6 @@
+.author__bio,
+.author__urls li a {
+  white-space: normal !important;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
