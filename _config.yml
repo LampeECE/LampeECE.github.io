@@ -287,16 +287,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-include:
-  - assets/css
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      custom_css:
-        - /assets/css/custom.css
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
