@@ -10,6 +10,7 @@ toc: true
 
 <details open markdown="1">
 <summary><strong>Ph.D. Students</strong></summary>
+<div markdown="1">
 
   - Mohammad Taha Askari  
     - UBC 4YF Scholar
@@ -23,6 +24,7 @@ toc: true
   - Selvakumar Tharranetharan  
     - UBC 4YF Scholar
 
+</di>
 </details>
 
 <details open>
