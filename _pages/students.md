@@ -33,8 +33,7 @@ toc: true
 </details>
 
 ---
-# Graduate students
-
+# Graduated students
 ## Ph.D. students
 <details open>
 <summary><strong>Show Ph.D. Graduates</strong></summary>
