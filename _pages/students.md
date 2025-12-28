@@ -11,17 +11,17 @@ toc: true
 <details open>
 <summary><strong>Ph.D. Students</strong></summary>
 
-- Mohammad Taha Askari  
-  - UBC 4YF Scholar
+  - Mohammad Taha Askari  
+    - UBC 4YF Scholar
 
-- Elena Dobre
+  - Elena Dobre
 
-- Nikhileswar Kota
+  - Nikhileswar Kota
 
-- Idan Roth
+  - Idan Roth
 
-- Selvakumar Tharranetharan  
-  - UBC 4YF Scholar
+  - Selvakumar Tharranetharan  
+    - UBC 4YF Scholar
 
 </details>
 
