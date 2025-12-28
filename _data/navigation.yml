@@ -6,7 +6,7 @@
 
 main:
   - title: "Research group"
-    url: /researchgroup/
+    url: /students/
 
   - title: "Publications"
     url: /_pages/publications.html
