@@ -23,7 +23,7 @@ toc: true
 </div>
 </details>
 
-<details open>
+<details open markdown="1">
 <summary><strong>M.A.Sc. Students</strong></summary>
 <div markdown="1">
   
