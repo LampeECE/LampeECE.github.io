@@ -139,8 +139,6 @@ toc: true
 </div>
 </details>
 
----
-
 <details>
 <summary><strong>Show MASc Graduates</strong></summary>
 <div markdown="1">
