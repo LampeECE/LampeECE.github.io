@@ -8,7 +8,7 @@ toc: true
 
 # Current Students
 
-<details open>
+<details open markdown="1">
 <summary><strong>Ph.D. Students</strong></summary>
 
   - Mohammad Taha Askari  
