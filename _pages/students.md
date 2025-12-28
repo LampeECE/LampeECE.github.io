@@ -14,9 +14,7 @@ toc: true
 
   - Mohammad Taha Askari  
     - UBC 4YF Scholar
-
   - Elena Dobre
-
   - Nikhileswar Kota
 
   - Idan Roth
