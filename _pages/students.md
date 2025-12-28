@@ -33,8 +33,8 @@ toc: true
 </details>
 
 ---
-# Graduated students
-## Ph.D. students
+
+## Graduated students
 <details>
 <summary><strong>Show Ph.D. Graduates</strong></summary>
 <div markdown="1">
@@ -140,7 +140,7 @@ toc: true
 </details>
 
 ---
-## MASc students
+
 <details>
 <summary><strong>Show MASc Graduates</strong></summary>
 <div markdown="1">
