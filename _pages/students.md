@@ -25,23 +25,23 @@ toc: true
 
 <details open>
 <summary><strong>M.A.Sc. Students</strong></summary>
-
+<div markdown="1">
+  
 - Chinmoyee Chakraborty
-
 - Francis Chambers
-
 - Flynn Dowey
 
+</div>
 </details>
 
 ---
 ## Ph.D. Students
-<details>
+<details open>
 <summary><strong>Show Ph.D. Graduates</strong></summary>
-
+<div markdown="1">
+  
 - Faramarz Jabbarvaziri (Ph.D.)
   - Thesis: [Advanced Grant-Free NOMA and Hybrid Beamforming Techniques for 5G and Beyond](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0448441)
-
 - Mostafa Darabi (Ph.D.)
   - Thesis: [Resource allocation for eMBB and URLLC use cases in 5G and beyond cellular networks](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445155)
 
