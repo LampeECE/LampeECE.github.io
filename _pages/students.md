@@ -142,7 +142,7 @@ toc: true
 
 ---
 ## MASc Students
-<details>
+<details open>
 <summary><strong>Show MASc Graduates</strong></summary>
 <div markdown="1">
 
