@@ -8,7 +8,7 @@ toc: true
 
 # Current Students
 
-<details open markdown="1">
+<details open>
 <summary><strong>Ph.D. Students</strong></summary>
 <div markdown="1">
   
@@ -23,7 +23,7 @@ toc: true
 </div>
 </details>
 
-<details open markdown="1">
+<details open>
 <summary><strong>M.A.Sc. Students</strong></summary>
 <div markdown="1">
   
@@ -82,22 +82,22 @@ toc: true
   - Thesis: [Physical-Layer Security for Visible-Light Communication Systems](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0345607)
 
 - Julien Renard (Ph.D.)
+  - with Prof. Horlin, jointly at UBC and Université Libre de Bruxelles
   - Thesis: [Spectrum Sensing for Cognitive Radios: Improving Robustness to Impulsive Noise](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0305018)
 
 - Nikola Zlatanov (Ph.D.)
-  - with Prof. Horlin, jointly at UBC and Université Libre de Bruxelles
+  - main supervisor Prof. R. Schober
   - Thesis: [Novel Protocols for the Two-Hop Half-Duplex Relay Network](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0166356)
 
 - Nima Taherinejad (Ph.D.)
-  - main supervisor Prof. R. Schober
+  - co-supervised by Prof. S. Mirabbasi
   - Thesis: [Power line communications in vehicles: Channel measurements and impedance matching networks](https://circle.ubc.ca/handle/2429/52749)
 
 - Imtiaz Ahmed (Ph.D.)
-  - co-supervised by Prof. S. Mirabbasi
+  - main supervisor Prof. R. Schober
   - Thesis: [Resource Allocation in Wireless Systems with Conventional and Energy Harvesting Nodes](https://circle.ubc.ca/handle/2429/50857)
 
 - Ghasem Naddafzadeh Shirazi (Ph.D.)
-  - main supervisor Prof. R. Schober
   - Thesis: [Optimization in Wireless Sensor and Machine-Type Communication Networks](https://circle.ubc.ca/handle/2429/46658)
 
 - Zahra Ahmadian (Ph.D.)
@@ -107,10 +107,10 @@ toc: true
   - Thesis: [Spatial Reuse Scheduling and Localization for Underwater Acoustic Communication Networks](https://circle.ubc.ca/handle/2429/44893)
 
 - Azad Ravanshid (Ph.D.)
+  - at University of Erlangen-Nurnberg, with Prof. J. Huber
   - Thesis: [Rateless-Coded Cooperative Communications for Wireless Networks](http://opus4.kobv.de/opus4-fau/frontdoor/index/index/docId/3530)
 
 - Mohammad Mohammadnia-Avval (Ph.D.)
-  - at University of Erlangen-Nurnberg, with Prof. J. Huber
   - Thesis: [Analysis and design of OFDM systems: Loading and nonlinear distortion mitigation](https://circle.ubc.ca/handle/2429/37610)
 
 - Trung Thanh Nguyen (Ph.D.)
@@ -120,29 +120,32 @@ toc: true
   - Thesis: [Reliable communication in non-Gaussian environments: Receiver design and analytical aspects](http://hdl.handle.net/2429/24695)
 
 - Tariq Al-Khasib (Ph.D.)
+  - co-supervised by Prof. H. Alnuweiri
   - Thesis: [Resource allocation and optimization for multiple-user legacy and cognitive radio systems](http://hdl.handle.net/2429/24588)
 
 - Anand Oka (Ph.D.)
-  - co-supervised by Prof. H. Alnuweiri
   - Thesis: [Towards Vaulting the Hurdle of Short Lifetimes in Wireless Sensor Networks: Distributed Algorithms and UWB Impulse Radio](http://hdl.handle.net/2429/11080)
 
 - Anna-Marie Silvester (Ph.D.)
   - Thesis: [Space-Time Continuous-Phase Modulation](Preprints/Anna_Maries_Thesis.pdf)
 
 - Christopher Snow (Ph.D.)
+  - co-supervised with Prof. R. Schober
   - Thesis: [Multiband OFDM for Ultra-Wideband Wireless Communication](https://circle.ubc.ca/dspace/handle/2429/318)
 
 - Volker Pauli (Ph.D.)
-  - co-supervised with Prof. R. Schober
   - at University of Erlangen-Nurnberg, with Prof. J. Huber
   - Thesis: [Design and Analysis of Low-Complexity Noncoherent Detection Schemes](Preprints/PhDThesis_VolkerPauli.pdf)
 
+</div>
 </details>
 
 ---
 ## MASc Students
 <details>
 <summary><strong>Show MASc Graduates</strong></summary>
+<div markdown="1">
+
 - Idan Roth (M.A.Sc.)
   - Thesis: Learning to Calibrate: Graph Neural Network for Online Calibration of Phase Shifters in Hybrid Beamforming Systems
 
@@ -180,10 +183,10 @@ toc: true
   - Thesis: [In-Vehicle Powerline Communication Using Software-Defined Radio](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0307515)
 
 - Manyou Ma (M.A.Sc.)
+  - co-supervised with Prof. R. Rohling
   - Thesis: [A Comparative Evaluation of Two Synthetic Aperture with Virtual Source Beamforming Methods in Biomedical Ultrasound](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0223123)
 
 - Michelle Clark (M.A.Sc.)
-  - co-supervised with Prof. R. Rohling
   - Thesis: [Improving the Feasibility of Energy Disaggregation in Very High- and Low-Rate Sampling Scenarios](https://circle.ubc.ca/handle/2429/54873)
 
 - Philip Mark (M.A.Sc.)
@@ -203,10 +206,10 @@ toc: true
   - Thesis: [Multiuser Detection for Transmit-Only Active RFID](https://circle.ubc.ca/handle/2429/39892)
 
 - Xiaolang Zhang (M.A.Sc.)
+  - co-supervised with Prof. S. Mirabbasi
   - Thesis: [A Programmable-Gain Amplifier and an Active Inductor for In-Vehicle Power Line Communications](https://circle.ubc.ca/handle/2429/37014)
 
 - Kung-Chung Lee (M.A.Sc.)
-  - co-supervised with Prof. S. Mirabbasi
   - Thesis: [Localization Systems Using Signal Strength Fingerprinting](https://circle.ubc.ca/handle/2429/28750)
 
 - Alireza Kenarsari (M.A.Sc.)
@@ -216,10 +219,10 @@ toc: true
   - Thesis: Rateless Codes – Decoding and Applications
 
 - Jingjun Li (M.A.Sc.)
-  - Thesis: Detection, Channel Estimation, and Interference Suppression for DS-UWB
+   - co-supervised by Prof. C. Leung
+   - Thesis: Detection, Channel Estimation, and Interference Suppression for DS-UWB
 
 - Zahra Ahmadian (M.A.Sc.)
-  - co-supervised by Prof. C. Leung
   - Thesis: Performance Analysis for IEEE 802.15.4a UWB Systems
 
 - Trung Thanh Nguyen (M.A.Sc.)
@@ -246,4 +249,5 @@ toc: true
   - co-supervised with Prof. R. Schober
   - Thesis: Noncoherent Sequence Detection Receiver for Bluetooth Systems
 
+</div>
 </details>
