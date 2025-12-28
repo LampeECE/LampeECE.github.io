@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-<details open>
+<details>
 <summary><strong>Ph.D. Students</strong></summary>
 <div markdown="1">
   
@@ -21,7 +21,7 @@ toc: true
 </div>
 </details>
 
-<details open>
+<details>
 <summary><strong>M.A.Sc. Students</strong></summary>
 <div markdown="1">
   
@@ -35,7 +35,7 @@ toc: true
 ---
 # Graduated students
 ## Ph.D. students
-<details open>
+<details>
 <summary><strong>Show Ph.D. Graduates</strong></summary>
 <div markdown="1">
   
@@ -141,7 +141,7 @@ toc: true
 
 ---
 ## MASc students
-<details open>
+<details>
 <summary><strong>Show MASc Graduates</strong></summary>
 <div markdown="1">
 
