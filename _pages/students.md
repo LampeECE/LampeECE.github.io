@@ -1,5 +1,5 @@
 ---
-title: "Students"
+title: ""
 layout: single
 permalink: /students/
 author_profile: true
