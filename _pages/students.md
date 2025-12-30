@@ -6,6 +6,25 @@ author_profile: true
 toc: true
 ---
 
+<div style="text-align:center; margin-bottom: 2rem;">
+  <img id="random-student-photo" 
+       src="" 
+       alt="Student photo" 
+       style="max-width: 300px; border-radius: 8px;">
+</div>
+
+<script>
+  const images = [
+    "2024-capstone.jpeg",
+    "2023-splatter_painting.jpg",
+    "2023-dinner.jpg",
+    "2022-06-22.jpg"
+  ];
+  const randomImage = images[Math.floor(Math.random() * images.length)];
+  document.getElementById("random-student-photo").src = 
+    "/assets/img/students/" + randomImage;
+</script>
+
 ## Students
 <details>
 <summary><strong>Ph.D. Students</strong></summary>
