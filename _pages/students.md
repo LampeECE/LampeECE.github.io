@@ -22,7 +22,7 @@ toc: true
   ];
   const randomImage = images[Math.floor(Math.random() * images.length)];
   document.getElementById("random-student-photo").src = 
-    "/assets/img/students/" + randomImage;
+    "/assets/images/" + randomImage;
 </script>
 
 ## Students
