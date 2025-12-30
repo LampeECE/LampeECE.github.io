@@ -11,7 +11,7 @@ I am a Professor in the [Department of Electrical and Engineering ](https://ece.
 
 # Research
 
-My research focuses on the design and analysis of communication systems across various domains, including wireless, optical fiber, power line, and underwater acoustic communications. I employ methodologies from communication and information theory, detection and estimation theory, signal processing, and machine learning to address these challenges. 
+My research explores the design and analysis of communication systems across wireless, optical fiber, power line, and underwater acoustic channels. I draw on communication and information theory, detection and estimation, signal processing, and machine learning to develop methods that address key challenges in these diverse environments.
 
 
 
