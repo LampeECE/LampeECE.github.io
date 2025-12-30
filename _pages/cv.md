@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Lutz Lampe received the Dipl.-Ing. and Dr.-Ing. degrees in electrical engineering from the University of Erlangen, Germany, in 1998 and 2002. He joined the Department of Electrical and Computer Engineering at the University of British Columbia in 2003, where he is now a Full Professor.  He served as ECE Associate Head for Graduate Studies from December 2011 to December 2024 and as ECE Department Head pro tem fro July 2023 to June 2024.
+Lutz Lampe received the Dipl.-Ing. and Dr.-Ing. degrees in electrical engineering from the University of Erlangen, Germany, in 1998 and 2002. He joined the Department of Electrical and Computer Engineering at the University of British Columbia in 2003, where he is now a Full Professor. He served as ECE Associate Head for Graduate Studies from December 2011 to December 2024 and as ECE Department Head pro tem from July 2023 to June 2024.
 
-His research centers on the design and analysis of communication systems across wireless, optical fiber, power line, and underwater acoustic domains. He draws on communication and information theory, detection and estimation, signal processing, and machine learning to tackle contemporary challenges in the ongoing pursuit of “faster, higher, stronger” communication technologies.
+His research focuses on the design and analysis of communication systems across wireless, optical fiber, power line, and underwater acoustic domains. He draws on communication and information theory, detection and estimation, signal processing, and machine learning to address contemporary challenges in the ongoing pursuit of “faster, higher, stronger” communication technologies.
 
-He is a corecipient of a number of Best Paper Awards, including awards at the 2006 IEEE International Conference on Ultra-Wideband (ICUWB), 2010 IEEE International Conference on Communications (ICC), and 2011, 2017, and 2018 IEEE International Conference on Power Line Communications (ISPLC). He was awarded the UBC Killam Research Prize in 2008, the Friedrich Wilhelm Bessel Research Award by the Alexander von Humboldt Foundation in 2009, and the UBC Charles A. McDowell Award of Excellence in Research in 2010.
-Dr. Lampe was the General (Co-)Chair for 2005 ISPLC, 2009 IEEE ICUWB, and 2013 IEEE SmartGridComm. He has served as an Associate Editor and a Guest Editor of several IEEE TRANSACTIONS and JOURNALS.
+He is a corecipient of several Best Paper Awards, including those from the 2006 IEEE International Conference on Ultra-Wideband (ICUWB), the 2010 IEEE International Conference on Communications (ICC), and the 2011, 2017, and 2018 IEEE International Conference on Power Line Communications (ISPLC). His honors include the UBC Killam Research Prize (2008), the Friedrich Wilhelm Bessel Research Award from the Alexander von Humboldt Foundation (2009), and the UBC Charles A. McDowell Award of Excellence in Research (2010). He was elected a Distinguished Lecturer of the IEEE Communications Society for 2012–2013.
 
-He served as the Chair of the IEEE Communications Society Technical Committee on Power Line Communication fro March 2010 to March 2014, and as Vice-Chair of the IEEE Communications Society Emerging Technical Subcommittee on Smart Grid Communications from March 2013 to November 2017. He was elected as a Distinguished Lecturer of the IEEE Communications Society in 2012-2013.
+Dr. Lampe served as General (Co-)Chair for the 2005 ISPLC, 2009 IEEE ICUWB, and 2013 IEEE SmartGridComm conferences. He has been an Associate Editor, Area Editor, and Guest Editor for multiple IEEE Transactions and Journals. He also served as Chair of the IEEE Communications Society Technical Committee on Power Line Communication from March 2010 to March 2014, and as Vice-Chair of the IEEE Communications Society Emerging Technical Subcommittee on Smart Grid Communications from March 2013 to November 2017.
+
 
 Education
 ======
