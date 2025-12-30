@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Lutz Lampe received the Dipl.-Ing. and Dr.-Ing. degrees in electrical engineering from the University of Erlangen, Germany, in 1998 and 2002. He joined the Department of Electrical and Computer Engineering at the University of British Columbia in 2003, where he is now a Full Professor.
+His research centers on the design and analysis of communication systems across wireless, optical fiber, power line, and underwater acoustic domains. He draws on communication and information theory, detection and estimation, signal processing, and machine learning to tackle contemporary challenges in the ongoing pursuit of “faster, higher, stronger” communication technologies.
+
 
 Education
 ======
