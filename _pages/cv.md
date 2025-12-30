@@ -43,6 +43,7 @@ Service
 
 * Conference Chair
   * General Co-Chair of the 2024 Canadian Workshop on Information Theory (CWIT)
+  * General Co-Chair of the 2021 North-American School of Information Theory (NASIT)
   * General Co-Chair of the 2013 IEEE International Conference on Smart Grid Communications Conference (SmartGridComm)
   * General Chair of the 2009 IEEE International Conference on Ultra-Wideband (ICUWB)
   * General Chair of the 2005 International Symposium on Power Line Communications and Its Applications (ISPLC)
