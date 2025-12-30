@@ -18,7 +18,22 @@ toc: true
     "2024-capstone.jpeg",
     "2023-splatter_painting.jpg",
     "2023-dinner.jpg",
-    "2022-06-22.jpg"
+    "2022-06-22.jpg",
+    "2019-10-30.jpg",
+    "2018-12-04.jpg",
+    "2019-04-23.jpeg",
+    "2017-09-08.png",
+    "2017-06-08.jpg",
+    "2015-10-08.jpg",
+    "2016-10-03.jpg",
+    "NimaRoberto_Vehicle.jpg",
+    "Lutz_Vehicle.jpg",
+    "Grad2011_3.jpg",
+    "IMG_3271_rs.jpg",
+    "IMG_3275_rs.jpg",
+    "Mountie_2013.jpg",
+    "GroupPicture_2012.jpg",
+    "IMG_20130702_204028.jpg"
   ];
   const randomImage = images[Math.floor(Math.random() * images.length)];
   document.getElementById("random-student-photo").src = 
