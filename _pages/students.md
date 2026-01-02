@@ -187,7 +187,8 @@ toc: true
   - Thesis: Learning to Calibrate: Graph Neural Network for Online Calibration of Phase Shifters in Hybrid Beamforming Systems
 
 - Marley Beckett (M.A.Sc.)
-  - Thesis: Harnessing RF Energy for Sustainable Power in Ambient IoT Devices
+  - Thesis: [Harnessing RF Energy for Sustainable Power in Ambient IoT Devices]
+(https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0447070)
 
 - Xi Lu (M.A.Sc.)
   - Thesis: [Neural networks in application to dolphin whistle detection and generation](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0438552)
