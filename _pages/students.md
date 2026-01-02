@@ -184,7 +184,8 @@ toc: true
   - Thesis: Deep Q-Learning Aided K-Means Clustering Protocol for Optimizing Network Lifetime in Wireless Sensor Networks
 
 - Idan Roth (M.A.Sc.)
-  - Thesis: Learning to Calibrate: Graph Neural Network for Online Calibration of Phase Shifters in Hybrid Beamforming Systems
+  - Thesis: [Learning to Calibrate: Graph Neural Network for Online Calibration of Phase Shifters in Hybrid Beamforming Systems]
+(https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0447182)
 
 - Marley Beckett (M.A.Sc.)
   - Thesis: [Harnessing RF Energy for Sustainable Power in Ambient IoT Devices]
