@@ -48,6 +48,7 @@ toc: true
   - Mohammad Taha Askari  
     - UBC 4YF Scholar
   - Elena Dobre
+  - Zeyu Hao
   - Nikhileswar Kota
   - Idan Roth
   - Selvakumar Tharranetharan  
@@ -62,8 +63,8 @@ toc: true
   
 - Chinmoyee Chakraborty
 - Francis Chambers
-- Flynn Dowey
-
+- Alec Digby
+- Lars Gierull
 </div>
 </details>
 
@@ -71,7 +72,7 @@ toc: true
 
 ## Graduated students
 <details>
-<summary><strong>Show Ph.D. Graduates</strong></summary>
+<summary><strong>Ph.D. Graduates</strong></summary>
 <div markdown="1">
   
 - Faramarz Jabbarvaziri (Ph.D.)
@@ -175,8 +176,11 @@ toc: true
 </details>
 
 <details>
-<summary><strong>Show MASc Graduates</strong></summary>
+<summary><strong>MASc Graduates</strong></summary>
 <div markdown="1">
+
+- Flynn Dowey (M.A.Sc.)
+  - Thesis: Deep Q-Learning Aided K-Means Clustering Protocol for Optimizing Network Lifetime in Wireless Sensor Networks
 
 - Idan Roth (M.A.Sc.)
   - Thesis: Learning to Calibrate: Graph Neural Network for Online Calibration of Phase Shifters in Hybrid Beamforming Systems
