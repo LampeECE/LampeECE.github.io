@@ -5326,7 +5326,7 @@
   doi={10.1109/WPNC.2010.5650817}
 }`,
 
-      
+<!--            -->      
 <!-- New papers -->
 "askari2026-NPAS": `
 @inproceedings{askari2026NPAS,
@@ -5381,6 +5381,20 @@
       URL.revokeObjectURL(url);
     }
   </script>
+
+<div id="spot1"></div>
+<div id="spot2"></div>
+
+<script>
+function insertPub(id, target) {
+  const tpl = document.getElementById(id);
+  document.getElementById(target).appendChild(tpl.content.cloneNode(true));
+}
+
+insertPub("askari2026NPAS", "askari2026NPAS1");
+insertPub("askari2026NPAS", "askari2026NPAS2");
+</script>
+  
 </head>
 
 <body>
@@ -5425,6 +5439,32 @@
     a non-commercial Creative Commons user license (CC-BY-NC-ND).
   </div>
 
+  <!-- New papers -->
+  <!-- New papers -->
+  <!-- New papers -->
+  <template id="askari2026NPAS">
+     <div class="pubitem">
+      <div class="pubitem-main">
+        M. T. Askari, L. Lampe, and A. Ghazisaeidi.<br />
+        <strong>
+          <a href="" target="_blank">
+            Neural Probabilistic Amplitude Shaping for Nonlinear Fiber Channels
+          </a>
+        </strong><br />
+        <em>Optical Fiber Communication Conference (OFC)</em>, San Diego, CA, USA, March 2022.
+      </div>
+    
+      <div class="pubitem-links">
+        <a href="https://people.ece.ubc.ca/~lampe/Preprints/2026-NPAS-OFC.pdf" target="_blank">
+          Preprint (PDF)
+        </a>
+        <button class="bibtex-btn" onclick="downloadBibtex('askari2026NPAS')">
+          BibTeX
+        </button>
+      </div>
+    </div>
+  </template>
+  
   <!-- Software & Data Base -->
   <h2 id="software">Software &amp; Data Base</h2>
   <div class="publist">
@@ -13456,7 +13496,7 @@
   <h2 id="conferencepapers">Conference Papers</h2>
   <div class="publist">
 
-{% include publications/2026-NPAS-OFC.html %}  
+<div id="askari2026NPAS1"></div>
     
 <div class="pubitem">
   <div class="pubitem-main">
