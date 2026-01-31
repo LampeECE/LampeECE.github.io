@@ -5380,15 +5380,7 @@
       document.body.removeChild(a);
       URL.revokeObjectURL(url);
     }
-  
-function insertPub(id, target) {
-  const tpl = document.getElementById(id);
-  document.getElementById(target).appendChild(tpl.content.cloneNode(true));
-}
-
-insertPub("askari2026NPAS", "askari2026NPAS1");
-insertPub("askari2026NPAS", "askari2026NPAS2");
-</script>
+  </script>
   
 </head>
 
@@ -16531,6 +16523,17 @@ insertPub("askari2026NPAS", "askari2026NPAS2");
 
   </div>
 
+  <script>
+
+    function insertPub(id, target) {
+    const tpl = document.getElementById(id);
+    document.getElementById(target).appendChild(tpl.content.cloneNode(true));
+    }
+
+    insertPub("askari2026NPAS", "askari2026NPAS1");
+    insertPub("askari2026NPAS", "askari2026NPAS2");
+
+  </script>
 
 
 <footer>
