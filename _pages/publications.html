@@ -2698,17 +2698,7 @@
 `.trim(),
 
 
-      // LTE / Fibre / Journal – same Nature Communications Engineering paper
-    "nichols2025-photonic": `
-@article{nichols2025_photonic,
-  author  = {Nichols, M. and Morison, H. and Eshaghi, A. and Shastri, B. and Lampe, L.},
-  title   = {Photonic Fully-Connected Hybrid Beamforming Using Microring Weight Banks},
-  journal = {Nature Communications Engineering},
-  year    = {2025},
-  note    = {Accepted},
-  url     = {https://www.nature.com/articles/s44172-025-00532-0}
-}
-`.trim(),
+      // LTE / Fibre / Journal
 
 "roth2025-gnn-calibration": `
 @inproceedings{roth2025_gnn_calibration,
@@ -4601,7 +4591,8 @@
   title   = {Photonic Fully-Connected Hybrid Beamforming Using Microring Weight Banks},
   journal = {Nature Communications Engineering},
   year    = {2025},
-  note    = {Accepted},
+  volume = {4},
+  month = {November},
   url     = {https://www.nature.com/articles/s44172-025-00532-0}
 }
 `.trim(),
@@ -5328,6 +5319,15 @@
 
 <!--            -->      
 <!-- New papers -->
+"roth2026-gnn-calibration": `
+@article{roth2026_gnn,
+  author  = {Roth, I. and Lampe, L.},
+  title   = {Graph Neural Network-Aided Online Calibration of Phase Shifter Networks},
+  journal = {IEEE Transactions on Machine Learning in Communications and Networking},
+  year    = {2026},
+   url     = {https://ieeexplore.ieee.org/document/11458880}
+}`,
+      
 "askari2026-NPAS": `
 @inproceedings{askari2026NPAS,
   author={Askari, Mohammad Taha and Lampe, Lutz and Ghazisaeidi, Amirhossein},
@@ -5427,6 +5427,30 @@
   <!-- New papers -->
   <!-- New papers -->
   <!-- New papers -->
+
+  <template id="roth2026gnncalibration">
+     <div class="pubitem">
+      <div class="pubitem-main">
+       I. Roth and L. Lampe.<br />
+        <strong>
+          <a href="" target="_blank">
+            Graph Neural Network-Aided Online Calibration of Phase Shifter Networks
+          </a>
+        </strong><br />
+        <em>IEEE Transactions on Machine Learning in Communications and Networking</em>, 2026.
+      </div>
+    
+      <div class="pubitem-links">
+        <a href="https://ieeexplore.ieee.org/document/11458880" target="_blank">
+          Opem access (PDF)
+        </a>
+        <button class="bibtex-btn" onclick="downloadBibtex('roth2026-gnn-calibration')">
+          BibTeX
+        </button>
+      </div>
+    </div>
+  </template>
+
   <template id="askari2026NPAS">
      <div class="pubitem">
       <div class="pubitem-main">
@@ -8021,6 +8045,7 @@
   <h2 id="lte">LTE, LTE-A, 5G, 6G</h2>
   <div class="publist">
 
+    <div id="roth2026gnncalibration2"></div>
     <div id="kota2026rliot2"></div>
     
     <div class="pubitem">
@@ -8029,7 +8054,7 @@
     <strong><a href="https://www.nature.com/articles/s44172-025-00532-0" target="_blank">
       Photonic Fully-Connected Hybrid Beamforming Using Microring Weight Banks
     </a></strong><br />
-    <em>Nature Communications Engineering, Nature Portfolio</em>, accepted, 2025.
+    <em>Communications Engineering, Nature Portfolio</em>, 4, November 2025.
   </div>
   <div class="pubitem-links">
     <a href="https://www.nature.com/articles/s44172-025-00532-0"  target="_blank">Preprint (PDF)</a>
@@ -10800,15 +10825,19 @@
   <!-- Journal Articles -->
   <h2 id="journal">Journal Articles</h2>
   <div class="publist">
+
+    <div id="roth2026gnncalibration1"></div>
+    
 <div class="pubitem">
   <div class="pubitem-main">
     M. Nichols, H. Morison, A. Eshaghi, B. Shastri, and L. Lampe.<br />
     <strong><a href="https://www.nature.com/articles/s44172-025-00532-0" target="_blank">
       Photonic Fully-Connected Hybrid Beamforming Using Microring Weight Banks
     </a></strong><br />
-    <em>Nature Communications Engineering, Nature Portfolio</em>, accepted, 2025.
+    <em>Communications Engineering, Nature Portfolio</em>, 4, November 2025.
   </div>
   <div class="pubitem-links">
+    <a href="https://www.nature.com/articles/s44172-025-00532-0" target="_blank">Open access (PDF)</a>
   </div>
 </div>
 
@@ -16215,6 +16244,8 @@
     document.getElementById(target).appendChild(tpl.content.cloneNode(true));
     }
 
+    insertPub("roth2026gnncalibration", "roth2026gnncalibration1");
+    insertPub("roth2026gnncalibration", "roth2026gnncalibration2");
     insertPub("askari2026NPAS", "askari2026NPAS1");
     insertPub("askari2026NPAS", "askari2026NPAS2");
     insertPub("kota2026rliot", "kota2026rliot1");
