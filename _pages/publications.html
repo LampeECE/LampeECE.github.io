@@ -5318,7 +5318,29 @@
 }`,
 
 <!--            -->      
-<!-- New papers -->
+<!-- New Papers -->
+"jiang2026-diffusion": `
+@inproceedings{jiang2026diffusion,
+  author={Jiang, T. and Lampe, L.},
+  booktitle={OCEANS 2026 Sanya}, 
+  title={Diffusion-based Generative Models for Biomimicking}, 
+  address   = {Sanya, China},
+  month     = {May},
+  year      = {2026},
+  url = {}
+}`,  
+
+"ji2026-urchin": `
+@inproceedings{Ji2026urchin
+  author={Ji, Y. and Zhu, E. and Yuan, T. and Hobson, B. and Staples, G. and Campbell, M., and Desjardins, A. and Lampe, L.},
+  booktitle={OCEANS 2026 Sanya}, 
+  title={Ocean Monitoring with Underwater Robotics: Detection and Counting of Sea Urchins}, 
+  address   = {Sanya, China},
+  month     = {May},
+  year      = {2026},
+  url = {}
+}`,  
+      
 "roth2026-gnn-calibration": `
 @article{roth2026_gnn,
   author  = {Roth, I. and Lampe, L.},
@@ -5331,7 +5353,7 @@
 "askari2026-NPAS": `
 @inproceedings{askari2026NPAS,
   author={Askari, Mohammad Taha and Lampe, Lutz and Ghazisaeidi, Amirhossein},
-  booktitle={Optical Fiber Communication Conference (OFC), 
+  booktitle={Optical Fiber Communication Conference (OFC)}, 
   title={Neural Probabilistic Amplitude Shaping for Nonlinear Fiber Channels}, 
   address   = {Los Angeles, CA, USA},
   month     = {March},
@@ -5428,6 +5450,52 @@
   <!-- New papers -->
   <!-- New papers -->
 
+  <template id="jiang2026diffusion">
+     <div class="pubitem">
+      <div class="pubitem-main">
+        T. Jiang and L. Lampe.<br />
+        <strong>
+          <a href="" target="_blank">
+            Diffusion-based Generative Models for Biomimicking
+          </a>
+        </strong><br />
+        <em>OCEANS 2026 Sanya</em>, Sanya, China, May 2026.
+      </div>
+    
+      <div class="pubitem-links">
+        <a href="https://people.ece.ubc.ca/~lampe/Preprints/2026_Biomimicking.pdf" target="_blank">
+          Preprint (PDF)
+        </a>
+        <button class="bibtex-btn" onclick="downloadBibtex('jiang2026-diffusion')">
+          BibTeX
+        </button>
+      </div>
+    </div>
+  </template>
+  
+  <template id="ji2026urchin">
+     <div class="pubitem">
+      <div class="pubitem-main">
+        Y. Ji, E. Zhu, T. Yuan, B. Hobson, G. Staples, M. Campbell, A. Desjardins and L. Lampe.<br />
+        <strong>
+          <a href="" target="_blank">
+            Ocean Monitoring with Underwater Robotics: Detection and Counting of Sea Urchins
+          </a>
+        </strong><br />
+        <em>OCEANS 2026 Sanya</em>, Sanya, China, May 2026.
+      </div>
+    
+      <div class="pubitem-links">
+        <a href="https://people.ece.ubc.ca/~lampe/Preprints/2026_Urchin.pdf" target="_blank">
+          Preprint (PDF)
+        </a>
+        <button class="bibtex-btn" onclick="downloadBibtex('ji2026-urchin')">
+          BibTeX
+        </button>
+      </div>
+    </div>
+  </template>
+  
   <template id="roth2026gnncalibration">
      <div class="pubitem">
       <div class="pubitem-main">
@@ -9430,6 +9498,9 @@
   <h2 id="uwac">Underwater Acoustic Communications</h2>
   <div class="publist">
     
+    <div id="jiang2026diffusion2"></div>  
+    <div id="ji2026urchin2"></div>  
+
     <div class="pubitem">
   <div class="pubitem-main">
     P. Casari, R. Diamant, S. Tomasin, J. Neasham, and L. Lampe.<br />
@@ -13194,7 +13265,8 @@
   <!-- Conference Papers -->
   <h2 id="conferencepapers">Conference Papers</h2>
   <div class="publist">
-
+<div id="jiang2026diffusion1"></div>  
+<div id="ji2026urchin1"></div>  
 <div id="kota2026rliot1"></div>    
 <div id="chakraborty2026tpcrsse1"></div>    
 <div id="askari2026NPAS1"></div>
@@ -16238,12 +16310,15 @@
   </div>
 
   <script>
-
+  <!--New papers -->
     function insertPub(id, target) {
     const tpl = document.getElementById(id);
     document.getElementById(target).appendChild(tpl.content.cloneNode(true));
     }
-
+    insertPub("jiang2026diffusion", "jiang2026diffusion1");  
+    insertPub("jiang2026diffusion", "jiang2026diffusion2");  
+    insertPub("ji2026urchin", "ji2026urchin1");  
+    insertPub("ji2026urchin", "ji2026urchin2");  
     insertPub("roth2026gnncalibration", "roth2026gnncalibration1");
     insertPub("roth2026gnncalibration", "roth2026gnncalibration2");
     insertPub("askari2026NPAS", "askari2026NPAS1");
