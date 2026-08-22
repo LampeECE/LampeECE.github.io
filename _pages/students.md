@@ -15,6 +15,7 @@ toc: true
 
 <script>
   const images = [
+    "2024-dinner.jpg",
     "2024-capstone.jpeg",
     "2023-splatter_painting.jpg",
     "2023-dinner.jpg",
