@@ -62,10 +62,10 @@ toc: true
 <summary><strong>M.A.Sc. Students</strong></summary>
 <div markdown="1">
   
-- Chinmoyee Chakraborty
-- Francis Chambers
 - Alec Digby
+- Ivan Cheung
 - Lars Gierull
+- Espen Swift
 </div>
 </details>
 
