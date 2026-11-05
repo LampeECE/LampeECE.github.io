@@ -15,6 +15,7 @@ toc: true
 
 <script>
   const images = [
+    "2026-10-BTS.jpeg",
     "2024-dinner.jpg",
     "2024-capstone.jpeg",
     "2023-splatter_painting.jpg",
@@ -53,8 +54,6 @@ toc: true
      - UBC 4YF Scholar
   - Nikhileswar Kota
   - Idan Roth
-  - Selvakumar Tharranetharan  
-    - UBC 4YF Scholar
   
 </div>
 </details>
@@ -77,8 +76,12 @@ toc: true
 <summary><strong>Ph.D. Graduates</strong></summary>
 <div markdown="1">
   
+- Selvakumar Tharranetharan (Ph.D.)
+  -Thesis: [Characterization and Compensation of Cross-Phase Modulation Using Perturbation Theory in Advanced Optical Transmission Systems](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0456132)
+  
 - Faramarz Jabbarvaziri (Ph.D.)
   - Thesis: [Advanced Grant-Free NOMA and Hybrid Beamforming Techniques for 5G and Beyond](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0448441)
+    
 - Mostafa Darabi (Ph.D.)
   - Thesis: [Resource allocation for eMBB and URLLC use cases in 5G and beyond cellular networks](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445155)
 
@@ -180,7 +183,12 @@ toc: true
 <details>
 <summary><strong>MASc Graduates</strong></summary>
 <div markdown="1">
-
+- Francis Chambers (M.A.Sc.)
+  - Thesis: [Network and Fault Parameter Estimation and the Cramér-Rao Lower Bound in Power Line Communications](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0455859)
+  
+- Chinmoyee Chakraborty (M.A.Sc.)
+  - Thesis: [Channel Estimation and Reduced-State Equalization for Talkative Power Conversion](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0452683)
+  
 - Flynn Dowey (M.A.Sc.)
   - Thesis: Deep Q-Learning Aided K-Means Clustering Protocol for Optimizing Network Lifetime in Wireless Sensor Networks
 
