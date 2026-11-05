@@ -77,7 +77,7 @@ toc: true
 <div markdown="1">
   
 - Selvakumar Tharranetharan (Ph.D.)
-  -Thesis: [Characterization and Compensation of Cross-Phase Modulation Using Perturbation Theory in Advanced Optical Transmission Systems](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0456132)
+  - Thesis: [Characterization and Compensation of Cross-Phase Modulation Using Perturbation Theory in Advanced Optical Transmission Systems](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0456132)
   
 - Faramarz Jabbarvaziri (Ph.D.)
   - Thesis: [Advanced Grant-Free NOMA and Hybrid Beamforming Techniques for 5G and Beyond](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0448441)
